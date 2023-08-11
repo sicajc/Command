@@ -1,5 +1,5 @@
 # Some useful commands
-```bash
+
     source: used for running to pre-written scripts
 
     man --
@@ -44,4 +44,4 @@
     top  helps seeing the usage of current server. Can be used to check which server is busy or not.
 
     open.    open the file in its format.
-```
+
