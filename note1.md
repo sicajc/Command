@@ -41,5 +41,7 @@
     diff
     tar archieve the folders together and put them as tar file.
 
+    top  helps seeing the usage of current server. Can be used to check which server is busy or not.
+
     open.    open the file in its format.
 ```
